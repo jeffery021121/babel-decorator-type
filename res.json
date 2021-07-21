@@ -1,0 +1,40 @@
+{
+  "dec2": {
+    "param": []
+  },
+  "dec3": {
+    "param": [
+      {
+        "fn": {
+          "param": [
+            "string",
+            "number",
+            {
+              "aa": "number",
+              "bb": "string"
+            },
+            [
+              "number",
+              "number",
+              "number",
+              {
+                "aaa": "number"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "dec1": {
+    "param": [
+      {
+        "fn": {
+          "param": [
+            "string"
+          ]
+        }
+      }
+    ]
+  }
+}
